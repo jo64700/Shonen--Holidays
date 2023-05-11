@@ -1,11 +1,13 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
-
+import './Home.css'
+import FilteredList from '../components/FilteredList'
 const Home = () => {
   return (
-    <div>
+    <div className='Home'>
       <NavBar />
-        Home
+      <FilteredList />
+
     </div>
   )
 }

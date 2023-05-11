@@ -1,9 +1,13 @@
 import React from 'react'
+
 import './NavBar.css'
+import Navigation from './Navigation'
 
 const NavBar = () => {
   return (
-    <div>NavBar</div>
+    <div className='navbar'>
+      <Navigation />
+    </div>
   )
 }
 

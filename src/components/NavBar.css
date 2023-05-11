@@ -1,0 +1,30 @@
+.listeNav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+
+}
+
+.navbar {
+    padding: 4em;
+    width: 100vw;
+    height: 3em;
+    background: rgba(130, 122, 122, 0.99);
+}
+
+.NAVLINK {
+    text-decoration: none;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.titreNavbar {
+    font-family: 'Inter', sans-serif;
+}
+
+
+h1.titreNavbar {
+    letter-spacing: 15px;
+}
