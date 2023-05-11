@@ -4,7 +4,6 @@ import Home from './pages/Home';
 
 const App = () => {
   return (
-    <div>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -12,7 +11,6 @@ const App = () => {
           <Route path="*" element={<Home />} />
         </Routes>
       </BrowserRouter>
-    </div>
   )
 }
 

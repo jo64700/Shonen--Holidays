@@ -1,16 +1,25 @@
-.listeNav {
+.listNav {
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
     color: white;
+}
 
+.listNav>h1 {
+    height: auto;
+    text-align: center;
+}
 
+.listNav>a {
+    height: auto;
+    width: 25%;
+    text-align: center;
 }
 
 .navbar {
-
-    padding: 4em;
-    height: 3em;
+    height: 7em;
+    width: 100%;
     background: rgba(130, 122, 122, 0.99);
 }
 
