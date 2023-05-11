@@ -1,7 +1,7 @@
-.filterContainer {
+.filtre {
     display: flex;
 
-    height: 45vh;
+    height: 20vh;
     width: 100%;
     background-color: rgba(130, 122, 122, 0.99);
     margin-top: 2em;

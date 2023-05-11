@@ -3,7 +3,9 @@ import CardFiltred from './CardFiltred'
 import './FilteredList.css'
 const FilteredList = () => {
     return (
+
         <div className='filterContainer'><CardFiltred /></div>
+
     )
 }
 
