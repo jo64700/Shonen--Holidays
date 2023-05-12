@@ -2,12 +2,13 @@ import React from 'react'
 import NavBar from '../components/NavBar'
 import './Home.css'
 import FilteredList from '../components/FilteredList'
-import Filtre from '../components/Filtre'
+
+import FiltreContainer from '../components/FiltreContainer'
 const Home = () => {
   return (
     <div className='Home'>
       <NavBar />
-      <Filtre />
+      <FiltreContainer />
       <FilteredList />
 
     </div>

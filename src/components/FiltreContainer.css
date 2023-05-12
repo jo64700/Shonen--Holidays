@@ -1,0 +1,10 @@
+.filtreContainer {
+    display: flex;
+
+    height: 20vh;
+    width: 100%;
+    background-color: rgba(130, 122, 122, 0.99);
+    margin-top: 2em;
+
+    border-radius: 1em;
+}
