@@ -15,4 +15,6 @@
     transition: all 0.3s ease-in-out;
 }
 
-.imgFilter {}
+.imgFilter {
+    width: 7.5em;
+}

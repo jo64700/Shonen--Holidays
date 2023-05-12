@@ -1,4 +1,5 @@
 .cardFiltred {
+
     width: 20em;
     height: 18em;
     margin: 1em auto;
@@ -7,4 +8,9 @@
     border-radius: 8px;
 
 
+
+}
+
+.cardFiltred .nomDeLaVille {
+    font-size: 40px;
 }
