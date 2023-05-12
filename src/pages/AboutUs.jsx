@@ -6,7 +6,7 @@ const AboutUs = () => {
         <div>
             <NavBar />
 
-            <img src="./Figma" alt="Screen" /> 
+            <img src="./Figma" alt="Screen" />
 
             AboutUs
         </div>
