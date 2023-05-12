@@ -5,6 +5,9 @@ const AboutUs = () => {
     return (
         <div>
             <NavBar />
+
+            <img src="./Figma" alt="Screen" /> 
+
             AboutUs
         </div>
     )
